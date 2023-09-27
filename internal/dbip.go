@@ -9,6 +9,11 @@ import (
 )
 
 var ispName = map[string]string{
+	"su.baidu.com":              "百度云加速",
+	"ChinaGBN":                  "金桥网",
+	"Hunan CATV":                "湖南有线",
+	"PHICOMM":                   "斐讯数据",
+	"Qihoo 360":                 "奇虎360",
 	"SeeHu Technology":          "视虎科技",
 	"ChinaCache":                "蓝汛",
 	"west.cn":                   "西部数码",
